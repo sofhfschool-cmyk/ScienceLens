@@ -1,9 +1,0 @@
-<resources>
-    <string name="app_name">ScienceLens</string>
-    <string name="tagline">See Beyond Marks. Measure Understanding.</string>
-    <string name="hero_subtitle">Monthly competency-based Science assessments that help schools identify learning gaps, misconceptions, and the skills students need to develop.</string>
-    <string name="cta_request_demo">Request a School Demo</string>
-    <string name="cta_sample_report">View Sample Report</string>
-    <string name="final_cta_headline">Ready to See What Your Students Really Understand?</string>
-    <string name="core_message">Marks tell you what students got right or wrong. ScienceLens helps schools understand why.</string>
-</resources>
